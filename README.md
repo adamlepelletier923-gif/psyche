@@ -5,4 +5,4 @@ Révision du M2 Promotion de la santé et prévention (EHESP, 2026-2027) façon 
 - Appli : https://adamlepelletier923-gif.github.io/psyche/
 - Fiches : https://adamlepelletier923-gif.github.io/psyche/fiches.html
 
-Les questions sont dans `units.js`. Les fiches sont générées depuis `fiches_body.html`, qui n'est pas versionné.
+Les questions sont dans `units.js`, les fiches dans `fiches.html`.
